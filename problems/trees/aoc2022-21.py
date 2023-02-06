@@ -6,6 +6,7 @@ You must implement functions part1 and part2
 
 import sys
 import os
+import exptree
 
 
 def part1(monkeys):
@@ -25,9 +26,9 @@ def part1(monkeys):
 
     Returns an integer
     """
+   
 
-    ### Replace with your code
-    return None
+
 
 
 def part2(monkeys):
